@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello GO</title>
+    <title>服务发现与负载均衡实现</title>
     <url>/2020/10/11/Hello-GO/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>1、 grpc 服务发现与负载均衡实现原理</p>
+]]></content>
+      <categories>
+        <category>grpc</category>
+      </categories>
+      <tags>
+        <tag>框架</tag>
+      </tags>
   </entry>
 </search>
